@@ -4,7 +4,7 @@ A repository for raw data measured before, during, and after the 2017 Total Ecli
 ### A few notes:
 - I'm just uploading the raw data now. Yes, I know it needs cleaned, and yes, I'll post a more readily useable version this week, in CSV format.  Might convert to JSON if I'm feeling fiesty.
 - Observed minimum temperature was recorded shortly after totality, at 84.87 degrees Fahrenheit.  Maximum was before/after partial eclipse started/stopped, at just over 103 degrees Fahrenheit.
-- Timezone for timestamp: Central Standard Time (currently UTC -6)
+- Timezone for timestamp: Central Standard Time (currently UTC -6 on August 21, 2017)
 - Location of observed totality: `Latitude: 37.399257`, `Longitude: 88.338721`
 - Temperature is provided in Celsius and Fahrenheit (needs split/mapped to a more useful format)
 
