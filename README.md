@@ -10,7 +10,7 @@ A repository for raw data measured before, during, and after the 2017 Total Ecli
 
 
 ### Circuitry (wiring diagram coming soon):
-- Arduino Mega 2560
+- [Arduino Mega 2560](https://www.amazon.com/Elegoo-EL-CB-003-ATmega2560-ATMEGA16U2-Arduino/dp/B01H4ZLZLQ/ref=sr_1_2_sspa?ie=UTF8&qid=1523631334&sr=8-2-spons&keywords=arduino+mega+2650&psc=1)
 - DS18B20 waterproof temperature sensor from [Adafruit](https://www.adafruit.com/product/381) (comes with a 4.7k ohm resistor to use in parallel)
 - Check out [this tutorial](https://www.youtube.com/watch?v=OMNB-4CXxtU) by Arduino My Life Up to see how to wire this all together.
 - Program the Arduino (see `eclipseTempLogger.ino` in this repo)
